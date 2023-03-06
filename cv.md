@@ -21,8 +21,8 @@ Bachelor's degree:  2022-09-01 – 2024-05-31
 
 # Языки
 
-English - A1/B1
-French - А2/B2
+-English - A1/B1
+-French - А2/B2
 
 
 # Профессиональные навыки
